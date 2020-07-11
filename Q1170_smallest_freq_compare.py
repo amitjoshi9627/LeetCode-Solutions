@@ -3,7 +3,6 @@ LeetCode Q.1170 Compare Strings by Frequency of the Smallest Character
 
 '''
 
-
 def numSmallerByFrequency(queries, words):
 
     def bin_search(arr, t):
