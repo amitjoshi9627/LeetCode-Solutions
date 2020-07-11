@@ -29,6 +29,6 @@ Free _Python_ code solutions for LeetCode Problems.
 #### Stack
 * 94- TreeInOrder [https://github.com/amitjoshi9627/LeetCode-Solutions/blob/master/Stack/Q94_TreeInorder_Stack.py]
 * 921- MinimumAddParenthesisValid [https://github.com/amitjoshi9627/LeetCode-Solutions/blob/master/Stack/Q921_minAddParenthesisValid.py]
-### Thank You
+### Thank You!
 _Please Give a :star2: if you :+1: it._
 
